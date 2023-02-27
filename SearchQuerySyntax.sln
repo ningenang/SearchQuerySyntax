@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchQuerySyntax.Test", "SearchQuerySyntax.Test\SearchQuerySyntax.Test.csproj", "{69CEE83E-7C48-4B55-87E7-55705F4D397B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CEE83E-7C48-4B55-87E7-55705F4D397B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CEE83E-7C48-4B55-87E7-55705F4D397B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CEE83E-7C48-4B55-87E7-55705F4D397B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CEE83E-7C48-4B55-87E7-55705F4D397B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A5AA41-E14B-40A1-A2D5-0E60CD718E13}
+	EndGlobalSection
+EndGlobal
